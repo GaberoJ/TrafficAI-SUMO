@@ -38,4 +38,4 @@
 
 ## Презентация проекта:
 
-https://disk.yandex.ru/d/QlE4gSzGdoZSuA
+https://disk.yandex.ru/i/BI75fyjUMUTC0g
