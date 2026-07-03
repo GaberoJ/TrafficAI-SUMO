@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewsettings>
+    <showCrossings>true</showCrossings>
+    <showLanes>true</showLanes>
+    <showGrid>false</showGrid>
+    <showEdgePopup>true</showEdgePopup>
+    <showDecals>true</showDecals>
+    <showJunctionPopup>true</showJunctionPopup>
+</viewsettings>
